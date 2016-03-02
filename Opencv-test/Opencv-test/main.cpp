@@ -21,7 +21,6 @@
 #define GAUS_LEVELS 9
 #define Num_Of_Local_Maxima 12
 
-
 #define GRAD_0 0
 #define GRAD_45 1
 #define GRAD_90 2
